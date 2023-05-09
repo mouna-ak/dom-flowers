@@ -2,20 +2,20 @@ let Products = [
     {
         name: "Rose flowers",
         price: 12,
-        img: "/img/bebe-flower.jpg",
+        img: "./img/bebe-flower.jpg",
     },
     {
         name: "Multicolored flowers",
         price: 14,
-        img: "/img/multicolor-flower.jpg",
+        img: "./img/multicolor-flower.jpg",
     }, {
         name: "Pink flowers",
         price: 25,
-        img: "/img/rose-flower.jpg",
+        img: "./img/rose-flower.jpg",
     }, {
         name: "Blue flowers",
         price: 19,
-        img: "/img/bleu-flower.jpg",
+        img: "./img/bleu-flower.jpg",
     },
 ]
 
